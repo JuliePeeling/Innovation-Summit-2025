@@ -1,23 +1,16 @@
-# Your Name Here
-
-Welcome to the GitHub training workshop!  
-Please edit this file with your own details.
+# Julie Peeling
 
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Julie Peeling 
+- **Affiliation:** Cornell University 
+- **Email:** jap479@cornell.edu 
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+My research focuses on using remotely sensed vegetation information to identify long-term trends in dryland systems and inform vegetation responses to restoration-focused management. I am really excited to learn more about systems-based thinking in environmental applications as well as incorporating big data to study questions at variable spatial and temporal scales.
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I learned how to windsurf this summer!
 
 ---
-
-*Instructions:*  
-- Replace all the placeholder text above with your own info.  
-- Save your edits (`git commit`) and push (`git push`) to share with the group.  
